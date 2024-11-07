@@ -1,4 +1,3 @@
-from django.shortcuts import render
 
 import openai
 import numpy as np
